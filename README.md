@@ -1,7 +1,17 @@
-### Hi there 👋
+### Hi there 👋, I'm Bénédicte!
+
+![Bénédicte's GitHub stats][vercel stats]
+![Bénédicte's Top Languages][vercel language]
+
+🎓 [The Hacking project] & [Ironhack] former alumni
+
+[Ironhack]: https://ironhack.com
+[The Hacking project]: https://www.thehackingproject.org/
+
+[vercel language]: https://github-readme-stats.vercel.app/api/top-langs/?username=BenedicteCn&langs_count=8&theme=omni&layout=compact
+[vercel stats]: https://github-readme-stats.vercel.app/api?username=BenedicteCn&theme=omni&show_icons=true
 
 <!--
-**BenedicteCn/BenedicteCN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
