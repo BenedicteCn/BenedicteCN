@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Bénédicte!
 
-🙆‍♀️ Fullstack Web Developer 
-🎓 [The Hacking project] & [Ironhack] former alumni
-💻 Stacks: JavaScript (ES6), NodeJS, MongoDB, Express, React, Ruby-on-Rails, HTML & CSS, Bootstrap.
+- 🙆‍♀️ Fullstack Web Developer 
+- 🎓 [The Hacking project] & [Ironhack] former alumni
+- 💻 Stacks: JavaScript (ES6), NodeJS, MongoDB, Express, React, Ruby-on-Rails, HTML & CSS, Bootstrap.
 
 ![Bénédicte's GitHub stats][vercel stats]
 ![Bénédicte's Top Languages][vercel language]
@@ -17,10 +17,10 @@
 
 🌱 My projects: 
 
-[<img align="left" height="94px" width="110px" alt="" src="https://benedictecn.github.io/La_Flamme_JSGame/"/>](https://benedictecn.github.io/La_Flamme_JSGame/)
+[<img align="left" height="94px" width="110px" alt="" src="https://benedictecn.github.io/La_Flamme_JSGame/"/>](https://thumb.canalplus.pro/bran/unsafe/1920x1080/filters:quality(80)/image/5f71d2825825c/uploads/media/1920x1080_LaFlamme.jpg)
 
 **La Flamme : Keyboard game based on the French TV show "La Flamme ** \
-[**WEBSITE**](https://biocoop-ecommerce.netlify.app/) • [Repository](https://github.com/BenedicteCn/La_Flamme_JSGame)
+[**WEBSITE**](https://benedictecn.github.io/La_Flamme_JSGame/) • [Repository](https://github.com/BenedicteCn/La_Flamme_JSGame)
 Languages: Javascript, HTML & CSS
 <br/>
 <br/>
