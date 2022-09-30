@@ -33,7 +33,7 @@
 
 #### Fair Athlete : 
 ##### The Yuka website for sport brands
-- [**WEBSITE**](https://yuka-sport-main2.herokuapp.com/)
+- [**WEBSITE**](https://yuka-sport-main2.herokuapp.com/)• [Repository](https://github.com/BenedicteCn/Fair-Athlete)
 - Stacks: Ruby-on-Rails, Bootstrap, PostgreSQL, HTML & CSS
 
 <!--
