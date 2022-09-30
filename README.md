@@ -19,7 +19,7 @@
 
 ## 🌱 My projects: 
 
-[<img align="left" height="94px" width="110px" alt="" src="https://thumb.canalplus.pro/bran/unsafe/1920x1080/filters:quality(80)/image/5f71d2825825c/uploads/media/1920x1080_LaFlamme.jpg"/>]
+[<img align="left" height="94px" width="110px" alt="" src="https://entournantlespages.files.wordpress.com/2020/10/flamme1-1-e1644657210243.jpg?w=256&h=256&crop=1"/>]
 
 **La Flamme : Keyboard game based on the French TV show "La Flamme ** \
 [**WEBSITE**](https://benedictecn.github.io/La_Flamme_JSGame/) • [Repository](https://github.com/BenedicteCn/La_Flamme_JSGame)
