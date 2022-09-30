@@ -4,7 +4,9 @@
 
 - 🙆‍♀️ Fullstack Web Developer 
 - 🎓 [The Hacking project] & [Ironhack] former alumni
-- 💻 Stacks: JavaScript (ES6), NodeJS, MongoDB, Express, React, Ruby-on-Rails, HTML & CSS, Bootstrap.
+- 💻 Stacks: JavaScript (ES6), NodeJS, MongoDB, Express, React, Ruby-on-Rails, HTML & CSS.
+
+<br/>
 
 ![Bénédicte's GitHub stats][vercel stats]
 ![Bénédicte's Top Languages][vercel language]
