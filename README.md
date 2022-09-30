@@ -1,5 +1,9 @@
 ### Hi there 👋, I'm Bénédicte!
 
+🙆‍♀️ Fullstack Web Developer 
+🎓 [The Hacking project] & [Ironhack] former alumni
+💻 Stacks: JavaScript (ES6), NodeJS, MongoDB, Express, React, Ruby-on-Rails, HTML & CSS, Bootstrap.
+
 ![Bénédicte's GitHub stats][vercel stats]
 ![Bénédicte's Top Languages][vercel language]
 
@@ -10,6 +14,16 @@
 
 [vercel language]: https://github-readme-stats.vercel.app/api/top-langs/?username=BenedicteCn&langs_count=8&theme=omni&layout=compact
 [vercel stats]: https://github-readme-stats.vercel.app/api?username=BenedicteCn&theme=omni&show_icons=true
+
+🌱 My projects: 
+
+[<img align="left" height="94px" width="110px" alt="" src="https://benedictecn.github.io/La_Flamme_JSGame/"/>](https://benedictecn.github.io/La_Flamme_JSGame/)
+
+**La Flamme : Keyboard game based on the French TV show "La Flamme ** \
+[**WEBSITE**](https://biocoop-ecommerce.netlify.app/) • [Repository](https://github.com/BenedicteCn/La_Flamme_JSGame)
+Languages: Javascript, HTML & CSS
+<br/>
+<br/>
 
 <!--
 
