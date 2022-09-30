@@ -11,8 +11,6 @@
 ![Bénédicte's GitHub stats][vercel stats]
 ![Bénédicte's Top Languages][vercel language]
 
-🎓 [The Hacking project] & [Ironhack] former alumni
-
 [Ironhack]: https://ironhack.com
 [The Hacking project]: https://www.thehackingproject.org/
 
