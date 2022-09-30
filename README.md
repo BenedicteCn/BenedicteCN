@@ -39,7 +39,7 @@
 
 #### Food Checking : 
 ##### Food products search website (Open food facts API)
-- [**WEBSITE**] (https://food-checking.netlify.app/) • [Repository](https://food-checking.netlify.app/)
+- [**WEBSITE**](https://food-checking.netlify.app/) • [Repository](https://github.com/BenedicteCn/Food-Checking/)
 - Stacks: React.js, Jest, HTMl & CSS
 
 <!--
