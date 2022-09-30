@@ -19,25 +19,25 @@
 
 ### 🌱 My projects: 
 
-#### La Flamme : 
+#### 🎲 La Flamme : 
 ##### Keyboard game based on the French TV show "La Flamme 
 - [**WEBSITE**](https://benedictecn.github.io/La_Flamme_JSGame/) • [Repository](https://github.com/BenedicteCn/La_Flamme_JSGame)
 - Stacks: Javascript, HTML & CSS 
 <br/>
 
-#### Magnetic Recruitment : 
+#### 🔍 Magnetic Recruitment : 
 ##### Keyboard game based on the French TV show "La Flamme 
 - [**WEBSITE**](https://magnetic-recruitment.netlify.app/) • [Repository front](https://github.com/BenedicteCn/magnetic-recrutment-front)• [Repository back](https://github.com/BenedicteCn/magnetic-recrutment-back)
 - Stacks: Javascript, React.js, Node.js, Express.js, MongoDB, HTML & CSS
 <br/>
 
-#### Fair Athlete : 
+#### 🏀 Fair Athlete : 
 ##### The Yuka website for sport brands
 - [**WEBSITE**](https://yuka-sport-main2.herokuapp.com/)• [Repository](https://github.com/BenedicteCn/Fair-Athlete)
 - Stacks: Ruby-on-Rails, Bootstrap, PostgreSQL, HTML & CSS
 <br/>
 
-#### Food Checking : 
+#### 🍏 Food Checking : 
 ##### Food products search website (Open food facts API)
 - [**WEBSITE**](https://food-checking.netlify.app/) • [Repository](https://github.com/BenedicteCn/Food-Checking/)
 - Stacks: React.js, Jest, HTMl & CSS
