@@ -36,6 +36,11 @@
 - [**WEBSITE**](https://yuka-sport-main2.herokuapp.com/)• [Repository](https://github.com/BenedicteCn/Fair-Athlete)
 - Stacks: Ruby-on-Rails, Bootstrap, PostgreSQL, HTML & CSS
 
+#### Food Checking : 
+##### Food products search website (Open food facts API)
+- [**WEBSITE**] (https://food-checking.netlify.app/) • [Repository](https://food-checking.netlify.app/)
+- Stacks: React.js, Jest, HTMl & CSS
+
 <!--
 
 Here are some ideas to get you started:
