@@ -21,20 +21,20 @@
 
 #### La Flamme : 
 ##### Keyboard game based on the French TV show "La Flamme 
-[**WEBSITE**](https://benedictecn.github.io/La_Flamme_JSGame/) • [Repository](https://github.com/BenedicteCn/La_Flamme_JSGame)
-Stacks: Javascript, HTML & CSS 
+- [**WEBSITE**](https://benedictecn.github.io/La_Flamme_JSGame/) • [Repository](https://github.com/BenedicteCn/La_Flamme_JSGame)
+- Stacks: Javascript, HTML & CSS 
 <br/>
 
 #### Magnetic Recruitment : 
 ##### Keyboard game based on the French TV show "La Flamme 
-[**WEBSITE**](https://magnetic-recruitment.netlify.app/) • [Repository front](https://github.com/BenedicteCn/magnetic-recrutment-front)• [Repository back](https://github.com/BenedicteCn/magnetic-recrutment-back)
-Stacks: Javascript, React.js, Node.js, Express.js, MongoDB, HTML & CSS
+- [**WEBSITE**](https://magnetic-recruitment.netlify.app/) • [Repository front](https://github.com/BenedicteCn/magnetic-recrutment-front)• [Repository back](https://github.com/BenedicteCn/magnetic-recrutment-back)
+- Stacks: Javascript, React.js, Node.js, Express.js, MongoDB, HTML & CSS
 <br/>
 
 #### Fair Athlete : 
 ##### The Yuka website for sport brands
-[**WEBSITE**](https://yuka-sport-main2.herokuapp.com/)
-Stacks: Ruby-on-Rails, Bootstrap, PostgreSQL, HTML & CSS
+- [**WEBSITE**](https://yuka-sport-main2.herokuapp.com/)
+- Stacks: Ruby-on-Rails, Bootstrap, PostgreSQL, HTML & CSS
 
 <!--
 
