@@ -21,8 +21,14 @@
 
 [<img align="left" height="94px" width="110px" alt="" src="https://entournantlespages.files.wordpress.com/2020/10/flamme1-1-e1644657210243.jpg?w=256&h=256&crop=1"/>](https://benedictecn.github.io/La_Flamme_JSGame/)
 
-**La Flamme : Keyboard game based on the French TV show "La Flamme ** \
-[**WEBSITE**](https://benedictecn.github.io/La_Flamme_JSGame/) • [Repository](https://github.com/BenedicteCn/La_Flamme_JSGame)
+# La Flamme : Keyboard game based on the French TV show "La Flamme ** \
+[**WEBSITE**](https://benedictecn.github.io/La_Flamme_JSGame/) • [Repository front](https://github.com/BenedicteCn/magnetic-recrutment-front)• [Repository back](https://github.com/BenedicteCn/magnetic-recrutment-back)
+Languages: Javascript, React.js, Node.js, Express.js, MongoDB, HTML & CSS
+<br/>
+<br/>
+
+# Magnetic Recruitment : Keyboard game based on the French TV show "La Flamme ** \
+[**WEBSITE**](https://magnetic-recruitment.netlify.app/) • [Repository]()
 Languages: Javascript, HTML & CSS
 <br/>
 <br/>
